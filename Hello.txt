@@ -1,3 +1,5 @@
 Hello all
 How are you?
 I am good
+
+Welcome to git & github classes
